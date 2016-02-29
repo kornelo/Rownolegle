@@ -1,0 +1,9 @@
+C:\Users\Dude\Desktop\Zacny\OOR\oor-rownolegle-cw2-master\oor-rownolegle-cw2-master\oor-rownolegle-cw2\bin\Debug\oor-rownolegle-cw2.exe.config
+C:\Users\Dude\Desktop\Zacny\OOR\oor-rownolegle-cw2-master\oor-rownolegle-cw2-master\oor-rownolegle-cw2\bin\Debug\oor-rownolegle-cw2.exe
+C:\Users\Dude\Desktop\Zacny\OOR\oor-rownolegle-cw2-master\oor-rownolegle-cw2-master\oor-rownolegle-cw2\bin\Debug\oor-rownolegle-cw2.pdb
+C:\Users\Dude\Desktop\Zacny\OOR\oor-rownolegle-cw2-master\oor-rownolegle-cw2-master\oor-rownolegle-cw2\obj\Debug\oor-rownolegle-cw2.csprojResolveAssemblyReference.cache
+C:\Users\Dude\Desktop\Zacny\OOR\oor-rownolegle-cw2-master\oor-rownolegle-cw2-master\oor-rownolegle-cw2\obj\Debug\oor_rownolegle_cw2.Form1.resources
+C:\Users\Dude\Desktop\Zacny\OOR\oor-rownolegle-cw2-master\oor-rownolegle-cw2-master\oor-rownolegle-cw2\obj\Debug\oor_rownolegle_cw2.Properties.Resources.resources
+C:\Users\Dude\Desktop\Zacny\OOR\oor-rownolegle-cw2-master\oor-rownolegle-cw2-master\oor-rownolegle-cw2\obj\Debug\oor-rownolegle-cw2.csproj.GenerateResource.Cache
+C:\Users\Dude\Desktop\Zacny\OOR\oor-rownolegle-cw2-master\oor-rownolegle-cw2-master\oor-rownolegle-cw2\obj\Debug\oor-rownolegle-cw2.exe
+C:\Users\Dude\Desktop\Zacny\OOR\oor-rownolegle-cw2-master\oor-rownolegle-cw2-master\oor-rownolegle-cw2\obj\Debug\oor-rownolegle-cw2.pdb
